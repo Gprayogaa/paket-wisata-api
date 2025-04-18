@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "Bali",
+    "category": "Pantai",
+    "image": "https://source.unsplash.com/400x300/?pantai&sig=1",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "4 Hari 3 Malam",
+    "price": 2750000,
+    "places": [
+      "Pantai Kuta",
+      "Tanah Lot",
+      "Ubud"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Yogyakarta",
+    "category": "Budaya",
+    "image": "https://source.unsplash.com/400x300/?budaya&sig=2",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2300000,
+    "places": [
+      "Keraton",
+      "Taman Sari",
+      "Candi Prambanan"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Bandung",
+    "category": "Alam",
+    "image": "https://source.unsplash.com/400x300/?alam&sig=3",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1950000,
+    "places": [
+      "Lembang",
+      "Kawah Putih",
+      "Dusun Bambu"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Lombok",
+    "category": "Pantai",
+    "image": "https://source.unsplash.com/400x300/?pantai&sig=4",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "4 Hari 3 Malam",
+    "price": 2650000,
+    "places": [
+      "Pantai Senggigi",
+      "Gili Trawangan",
+      "Desa Sade"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Malang",
+    "category": "Pegunungan",
+    "image": "https://source.unsplash.com/400x300/?pegunungan&sig=5",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2100000,
+    "places": [
+      "Gunung Bromo",
+      "Museum Angkut",
+      "Jatim Park"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Raja Ampat",
+    "category": "Bahari",
+    "image": "https://source.unsplash.com/400x300/?bahari&sig=6",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "5 Hari 4 Malam",
+    "price": 4500000,
+    "places": [
+      "Wayag",
+      "Piaynemo",
+      "Arborek"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Labuan Bajo",
+    "category": "Bahari",
+    "image": "https://source.unsplash.com/400x300/?bahari&sig=7",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "4 Hari 3 Malam",
+    "price": 4000000,
+    "places": [
+      "Pulau Komodo",
+      "Pink Beach",
+      "Gua Batu Cermin"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Medan",
+    "category": "Sejarah",
+    "image": "https://source.unsplash.com/400x300/?sejarah&sig=8",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2150000,
+    "places": [
+      "Istana Maimun",
+      "Danau Toba",
+      "Parapat"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Padang",
+    "category": "Kuliner",
+    "image": "https://source.unsplash.com/400x300/?kuliner&sig=9",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1800000,
+    "places": [
+      "Jam Gadang",
+      "Pantai Air Manis",
+      "Sate Padang"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Makassar",
+    "category": "Pantai",
+    "image": "https://source.unsplash.com/400x300/?pantai&sig=10",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2200000,
+    "places": [
+      "Pantai Losari",
+      "Benteng Rotterdam",
+      "Trans Studio"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Banda Aceh",
+    "category": "Religi",
+    "image": "https://source.unsplash.com/400x300/?religi&sig=11",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2100000,
+    "places": [
+      "Masjid Baiturrahman",
+      "Museum Tsunami",
+      "PLTD Apung"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Semarang",
+    "category": "Sejarah",
+    "image": "https://source.unsplash.com/400x300/?sejarah&sig=12",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1900000,
+    "places": [
+      "Lawang Sewu",
+      "Kota Lama",
+      "Sam Poo Kong"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Palembang",
+    "category": "Budaya",
+    "image": "https://source.unsplash.com/400x300/?budaya&sig=13",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2050000,
+    "places": [
+      "Jembatan Ampera",
+      "Pulau Kemaro",
+      "Museum Sultan Mahmud"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Pontianak",
+    "category": "Unik",
+    "image": "https://source.unsplash.com/400x300/?unik&sig=14",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1850000,
+    "places": [
+      "Tugu Khatulistiwa",
+      "Keraton Kadariah",
+      "Masjid Mujahidin"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Balikpapan",
+    "category": "Alam",
+    "image": "https://source.unsplash.com/400x300/?alam&sig=15",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2150000,
+    "places": [
+      "Pantai Melawai",
+      "Hutan Bakau",
+      "Kebun Raya"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Samarinda",
+    "category": "Alam",
+    "image": "https://source.unsplash.com/400x300/?alam&sig=16",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1900000,
+    "places": [
+      "Pulau Kumala",
+      "Air Terjun Tanah Merah",
+      "Taman Tepian Mahakam"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Banjarmasin",
+    "category": "Sungai",
+    "image": "https://source.unsplash.com/400x300/?sungai&sig=17",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2000000,
+    "places": [
+      "Pasar Terapung",
+      "Siring Tendean",
+      "Pulau Kembang"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Manado",
+    "category": "Bahari",
+    "image": "https://source.unsplash.com/400x300/?bahari&sig=18",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "4 Hari 3 Malam",
+    "price": 2700000,
+    "places": [
+      "Bunaken",
+      "Taman Laut",
+      "Danau Linow"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Palu",
+    "category": "Alam",
+    "image": "https://source.unsplash.com/400x300/?alam&sig=19",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2100000,
+    "places": [
+      "Pantai Talise",
+      "Taman Nasional Lore Lindu",
+      "Jembatan Palu IV"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Kupang",
+    "category": "Eksotis",
+    "image": "https://source.unsplash.com/400x300/?eksotis&sig=20",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2250000,
+    "places": [
+      "Pantai Lasiana",
+      "Bukit Cinta",
+      "Pulau Semau"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Jayapura",
+    "category": "Eksotis",
+    "image": "https://source.unsplash.com/400x300/?eksotis&sig=21",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "4 Hari 3 Malam",
+    "price": 2800000,
+    "places": [
+      "Danau Sentani",
+      "Pantai Base G",
+      "Bukit Jokowi"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Ternate",
+    "category": "Sejarah",
+    "image": "https://source.unsplash.com/400x300/?sejarah&sig=22",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2200000,
+    "places": [
+      "Benteng Oranje",
+      "Danau Tolire",
+      "Gunung Gamalama"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Ambon",
+    "category": "Budaya",
+    "image": "https://source.unsplash.com/400x300/?budaya&sig=23",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2150000,
+    "places": [
+      "Pantai Natsepa",
+      "Benteng Amsterdam",
+      "Gong Perdamaian"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Mataram",
+    "category": "Religi",
+    "image": "https://source.unsplash.com/400x300/?religi&sig=24",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "3 Hari 2 Malam",
+    "price": 2000000,
+    "places": [
+      "Pura Meru",
+      "Taman Mayura",
+      "Islamic Center NTB"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Sorong",
+    "category": "Bahari",
+    "image": "https://source.unsplash.com/400x300/?bahari&sig=25",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "4 Hari 3 Malam",
+    "price": 2600000,
+    "places": [
+      "Pantai Tanjung Kasuari",
+      "Pasir Timbul",
+      "Kepulauan Raja Ampat"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Pekanbaru",
+    "category": "Kuliner",
+    "image": "https://source.unsplash.com/400x300/?kuliner&sig=26",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1800000,
+    "places": [
+      "Pasar Bawah",
+      "Masjid Agung An-Nur",
+      "Kawah Biru"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Batam",
+    "category": "Belanja",
+    "image": "https://source.unsplash.com/400x300/?belanja&sig=27",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1900000,
+    "places": [
+      "Nagoya Hill",
+      "Barelang Bridge",
+      "Mega Mall"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Tangerang",
+    "category": "Keluarga",
+    "image": "https://source.unsplash.com/400x300/?keluarga&sig=28",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1700000,
+    "places": [
+      "Scientia Square Park",
+      "Taman Potret",
+      "AEON Mall"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Bogor",
+    "category": "Alam",
+    "image": "https://source.unsplash.com/400x300/?alam&sig=29",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "2 Hari 1 Malam",
+    "price": 1750000,
+    "places": [
+      "Kebun Raya",
+      "Curug Bidadari",
+      "The Jungle"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Depok",
+    "category": "Kota",
+    "image": "https://source.unsplash.com/400x300/?kota&sig=30",
+    "description": "Nikmati perjalanan seru dan pengalaman tak terlupakan di destinasi ini!",
+    "duration": "1 Hari",
+    "price": 1500000,
+    "places": [
+      "Setu Rawa Besar",
+      "D-Mall",
+      "Kampung 99 Pepohonan"
+    ]
+  }
+]
