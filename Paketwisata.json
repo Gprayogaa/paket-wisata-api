@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nama": "Pantai Kuta",
+    "kategori": "Pantai",
+    "deskripsi": "Pantai pasir putih di Bali dengan sunset yang memukau.",
+    "gambar": "https://source.unsplash.com/600x400/?beach"
+  },
+  {
+    "id": 2,
+    "nama": "Gunung Bromo",
+    "kategori": "Gunung",
+    "deskripsi": "Menikmati sunrise dari puncak Bromo.",
+    "gambar": "https://source.unsplash.com/600x400/?mountain"
+  },
+  {
+    "id": 3,
+    "nama": "Hotel Santika",
+    "kategori": "Hotel",
+    "deskripsi": "Hotel bintang 4 di tengah kota Jakarta.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 4,
+    "nama": "Pantai Pink",
+    "kategori": "Pantai",
+    "deskripsi": "Pantai unik berpasir merah muda di Lombok.",
+    "gambar": "https://source.unsplash.com/600x400/?pink-beach"
+  }
+]
