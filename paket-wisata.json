@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "nama": "Pantai Kuta",
+    "kategori": "Pantai",
+    "deskripsi": "Pantai pasir putih di Bali dengan sunset yang memukau.",
+    "gambar": "https://source.unsplash.com/600x400/?beach"
+  },
+  {
+    "id": 2,
+    "nama": "Gunung Bromo",
+    "kategori": "Gunung",
+    "deskripsi": "Menikmati sunrise dari puncak Bromo.",
+    "gambar": "https://source.unsplash.com/600x400/?mountain"
+  },
+  {
+    "id": 3,
+    "nama": "Hotel Santika",
+    "kategori": "Hotel",
+    "deskripsi": "Hotel bintang 4 di tengah kota Jakarta.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 4,
+    "nama": "Pantai Pink",
+    "kategori": "Pantai",
+    "deskripsi": "Pantai unik berpasir merah muda di Lombok.",
+    "gambar": "https://source.unsplash.com/600x400/?pink-beach"
+  },
+  {
+    "id": 5,
+    "nama": "Gunung Slamet",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Slamet.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 6,
+    "nama": "Jakarta",
+    "kategori": "Kota",
+    "deskripsi": "Tempat wisata kategori Kota bernama Jakarta.",
+    "gambar": "https://source.unsplash.com/600x400/?kota"
+  },
+  {
+    "id": 7,
+    "nama": "Desa Sade",
+    "kategori": "Desa",
+    "deskripsi": "Tempat wisata kategori Desa bernama Desa Sade.",
+    "gambar": "https://source.unsplash.com/600x400/?desa"
+  },
+  {
+    "id": 8,
+    "nama": "Danau Kelimutu",
+    "kategori": "Danau",
+    "deskripsi": "Tempat wisata kategori Danau bernama Danau Kelimutu.",
+    "gambar": "https://source.unsplash.com/600x400/?danau"
+  },
+  {
+    "id": 9,
+    "nama": "Hotel Kempinski",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Kempinski.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 10,
+    "nama": "Gunung Rinjani",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Rinjani.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 11,
+    "nama": "Pantai Tanjung Bira",
+    "kategori": "Pantai",
+    "deskripsi": "Tempat wisata kategori Pantai bernama Pantai Tanjung Bira.",
+    "gambar": "https://source.unsplash.com/600x400/?pantai"
+  },
+  {
+    "id": 12,
+    "nama": "Gunung Slamet",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Slamet.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 13,
+    "nama": "Danau Poso",
+    "kategori": "Danau",
+    "deskripsi": "Tempat wisata kategori Danau bernama Danau Poso.",
+    "gambar": "https://source.unsplash.com/600x400/?danau"
+  },
+  {
+    "id": 14,
+    "nama": "Bandung",
+    "kategori": "Kota",
+    "deskripsi": "Tempat wisata kategori Kota bernama Bandung.",
+    "gambar": "https://source.unsplash.com/600x400/?kota"
+  },
+  {
+    "id": 15,
+    "nama": "Gunung Bromo",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Bromo.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 16,
+    "nama": "Desa Sade",
+    "kategori": "Desa",
+    "deskripsi": "Tempat wisata kategori Desa bernama Desa Sade.",
+    "gambar": "https://source.unsplash.com/600x400/?desa"
+  },
+  {
+    "id": 17,
+    "nama": "Hotel Kempinski",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Kempinski.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 18,
+    "nama": "Pantai Sanur",
+    "kategori": "Pantai",
+    "deskripsi": "Tempat wisata kategori Pantai bernama Pantai Sanur.",
+    "gambar": "https://source.unsplash.com/600x400/?pantai"
+  },
+  {
+    "id": 19,
+    "nama": "Medan",
+    "kategori": "Kota",
+    "deskripsi": "Tempat wisata kategori Kota bernama Medan.",
+    "gambar": "https://source.unsplash.com/600x400/?kota"
+  },
+  {
+    "id": 20,
+    "nama": "Hotel Santika",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Santika.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 21,
+    "nama": "Gunung Bromo",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Bromo.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 22,
+    "nama": "Hotel Aryaduta",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Aryaduta.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 23,
+    "nama": "Gunung Rinjani",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Rinjani.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 24,
+    "nama": "Gunung Merbabu",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Merbabu.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 25,
+    "nama": "Danau Poso",
+    "kategori": "Danau",
+    "deskripsi": "Tempat wisata kategori Danau bernama Danau Poso.",
+    "gambar": "https://source.unsplash.com/600x400/?danau"
+  },
+  {
+    "id": 26,
+    "nama": "Hotel Aryaduta",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Aryaduta.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 27,
+    "nama": "Jakarta",
+    "kategori": "Kota",
+    "deskripsi": "Tempat wisata kategori Kota bernama Jakarta.",
+    "gambar": "https://source.unsplash.com/600x400/?kota"
+  },
+  {
+    "id": 28,
+    "nama": "Hotel Aryaduta",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Aryaduta.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 29,
+    "nama": "Gunung Rinjani",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Rinjani.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 30,
+    "nama": "Desa Sade",
+    "kategori": "Desa",
+    "deskripsi": "Tempat wisata kategori Desa bernama Desa Sade.",
+    "gambar": "https://source.unsplash.com/600x400/?desa"
+  },
+  {
+    "id": 31,
+    "nama": "Gunung Bromo",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Bromo.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 32,
+    "nama": "Gunung Bromo",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Bromo.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 33,
+    "nama": "Surabaya",
+    "kategori": "Kota",
+    "deskripsi": "Tempat wisata kategori Kota bernama Surabaya.",
+    "gambar": "https://source.unsplash.com/600x400/?kota"
+  },
+  {
+    "id": 34,
+    "nama": "Yogyakarta",
+    "kategori": "Kota",
+    "deskripsi": "Tempat wisata kategori Kota bernama Yogyakarta.",
+    "gambar": "https://source.unsplash.com/600x400/?kota"
+  },
+  {
+    "id": 35,
+    "nama": "Gunung Semeru",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Semeru.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 36,
+    "nama": "Gunung Slamet",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Slamet.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 37,
+    "nama": "Surabaya",
+    "kategori": "Kota",
+    "deskripsi": "Tempat wisata kategori Kota bernama Surabaya.",
+    "gambar": "https://source.unsplash.com/600x400/?kota"
+  },
+  {
+    "id": 38,
+    "nama": "Danau Sentani",
+    "kategori": "Danau",
+    "deskripsi": "Tempat wisata kategori Danau bernama Danau Sentani.",
+    "gambar": "https://source.unsplash.com/600x400/?danau"
+  },
+  {
+    "id": 39,
+    "nama": "Hotel Kempinski",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Kempinski.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 40,
+    "nama": "Desa Trunyan",
+    "kategori": "Desa",
+    "deskripsi": "Tempat wisata kategori Desa bernama Desa Trunyan.",
+    "gambar": "https://source.unsplash.com/600x400/?desa"
+  },
+  {
+    "id": 41,
+    "nama": "Desa Tamansari",
+    "kategori": "Desa",
+    "deskripsi": "Tempat wisata kategori Desa bernama Desa Tamansari.",
+    "gambar": "https://source.unsplash.com/600x400/?desa"
+  },
+  {
+    "id": 42,
+    "nama": "Hotel Mulia",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Mulia.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 43,
+    "nama": "Hotel Kempinski",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Kempinski.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  },
+  {
+    "id": 44,
+    "nama": "Danau Kelimutu",
+    "kategori": "Danau",
+    "deskripsi": "Tempat wisata kategori Danau bernama Danau Kelimutu.",
+    "gambar": "https://source.unsplash.com/600x400/?danau"
+  },
+  {
+    "id": 45,
+    "nama": "Desa Trunyan",
+    "kategori": "Desa",
+    "deskripsi": "Tempat wisata kategori Desa bernama Desa Trunyan.",
+    "gambar": "https://source.unsplash.com/600x400/?desa"
+  },
+  {
+    "id": 46,
+    "nama": "Pantai Kuta",
+    "kategori": "Pantai",
+    "deskripsi": "Tempat wisata kategori Pantai bernama Pantai Kuta.",
+    "gambar": "https://source.unsplash.com/600x400/?pantai"
+  },
+  {
+    "id": 47,
+    "nama": "Pantai Kuta",
+    "kategori": "Pantai",
+    "deskripsi": "Tempat wisata kategori Pantai bernama Pantai Kuta.",
+    "gambar": "https://source.unsplash.com/600x400/?pantai"
+  },
+  {
+    "id": 48,
+    "nama": "Gunung Semeru",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Semeru.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 49,
+    "nama": "Gunung Merbabu",
+    "kategori": "Gunung",
+    "deskripsi": "Tempat wisata kategori Gunung bernama Gunung Merbabu.",
+    "gambar": "https://source.unsplash.com/600x400/?gunung"
+  },
+  {
+    "id": 50,
+    "nama": "Hotel Kempinski",
+    "kategori": "Hotel",
+    "deskripsi": "Tempat wisata kategori Hotel bernama Hotel Kempinski.",
+    "gambar": "https://source.unsplash.com/600x400/?hotel"
+  }
+]
